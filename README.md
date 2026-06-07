@@ -19,7 +19,9 @@ Analyze Netflix dataset to identify trends and insights.
 ## Dataset
 Kaggle Netflix Dataset
 
+
 ## Project Structure
+```text
 netflix-data-analysis/
 │
 ├── data/
@@ -32,20 +34,22 @@ netflix-data-analysis/
 │   ├── movies_vs_tvshows.png
 │   ├── top_countries.png
 │   ├── top_genres.png
-│   └── ratings_distribution.png
+│   └── rating_distribution.png
 │
 ├── README.md
 │
 └── requirements.txt
+```
+
 
 ## Screenshots
-Movies vs TV Shows
+![Movies vs TV Shows](images/movies_vs_tvshows.png)
 
-Top 10 Countries
+![Top 10 Countries](images/top_countries.png)
 
-Top Genres
+![Top Genres](images/top_genres.png)
 
-Ratings Distribution
+![Ratings Distribution](images/rating_distribution.png)
 
 ## Future Improvements
 - Build interactive Power BI dashboard
